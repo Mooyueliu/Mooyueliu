@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mooyueliu, or Lawrence Liu.
-- 👀 I’m interested in Survey design, development, and validation!
+- 👀 I’m interested in Survey design, development and validation!
 - 🌱 I’ve completed my MS degree in Industrial/Organizational Psychology just months ago!  
 - 💞️ I’m looking to start a career in survey/assessment design & validation.
 - 📫 You can reach me via:
